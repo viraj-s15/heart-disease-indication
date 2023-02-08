@@ -59,6 +59,8 @@ df["Age"] = age
 
 df = df.drop(["AgeCategory", "HeartDisease"], axis=1)
 
+df.describe()
+
 # ----------------------------------------------------------------
 # The data set is finall processed, exporting the dataset now
 # ----------------------------------------------------------------
