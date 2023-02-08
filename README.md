@@ -1,10 +1,10 @@
-heart-disease-indication
-==============================
+# heart-disease-indication
 
-Predicting symptoms of heart disease using SVM
+<font size=5>
+Support Vector machines are being used in the process of predicting whether or not a person has a chance of having a heart disease. The accuracy score obtained on thetesting dataset is 91.43% which is sufficient for the size of the dataset and the number of parameters that were considered during the creation of the support vectors. 
+<font size=3>
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -51,7 +51,6 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
---------
+---
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
