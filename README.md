@@ -1,7 +1,7 @@
 # heart-disease-indication
 
 <font size=5>
-Support Vector machines are being used in the process of predicting whether or not a person has a chance of having a heart disease. The accuracy score obtained on thetesting dataset is 91.43% which is sufficient for the size of the dataset and the number of parameters that were considered during the creation of the support vectors. 
+Support Vector machines are being used in the process of predicting whether or not a person has a chance of having a heart disease. The accuracy score obtained on the testing dataset is 91.43% which is sufficient for the size of the dataset and the number of parameters that were considered during the creation of the support vectors. 
 <font size=3>
 
 ## Project Organization
