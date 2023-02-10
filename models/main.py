@@ -110,3 +110,13 @@ else:
     print(
         "The person with the given attribuites has a higher probability of having any heart diseases"
     )
+
+
+# ----------------------------------------------------------------
+# Saving the Model using pickle
+# ----------------------------------------------------------------
+
+import pickle
+
+filename = "heartDiseaseModel.sav"
+pickle.dump(classifier, open(filename, "wb"))
